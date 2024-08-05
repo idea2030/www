@@ -529,6 +529,129 @@ The Top 10 Emerging Technologies of 2024 are:
 10. Genomics for transplants: The successful implantation of genetically engineered organs into a human marks a significant advancement in healthcare, offering hope to millions awaiting transplants​​.
 
 
+[Applied AI and Cutting-edge Technology Start-ups Dominate this Year’s 100 New Members of the World Economic Forum’s Technology Pioneers Community > Press releases | World Economic Forum](https://www.weforum.org/press/2024/06/applied-ai-and-cutting-edge-technology-start-ups-dominate-this-year-s-100-new-members-of-the-world-economic-forum-s-technology-pioneers-community/)
+
+
+
+Neurotechnology
+
+Neurotechnology is another area of rapid innovation, with more than $8 billion in venture capital investment to date in and growing ($1.4 billion was raised by neurotech companies in 2023, double the amount raised in 2022, according to Pitchbook article). Four neurotechnology start-ups are in this year’s cohort – BrainQ Technologies, Neurable, OpenBCI and NextSense, which will engage with the AI Governance Alliance.
+
+
+
+
+
+Europe
+
+Algorithmiq (Finland), harnessing the power of quantum computing to solve complex problems in life sciences.
+Bioptimus (France), building the first and only reference multilevel foundation model for biology that will transform multiscale data into actionable representations to fuel breakthrough discoveries in biomedicine.
+constellr (Germany), delivering daily global land surface temperature (LST) data from space optimized for smart farming.
+DePoly (Switzerland), allowing the chemical recycling of polyethylene terephthalate (PET) plastic back to its main components.
+Dioxycle (France), pioneering breakthrough carbon electrolysis technologies that convert industrial emissions into sustainable, cost-competitive ethylene.
+Dotlumen (Romania), using self-driving technology scaled down in the world's first headset to empower the blind.
+Evroc (Sweden), building a sustainable hyperscale cloud and AI infrastructure for the world with a strong focus on privacy.
+HelloBetter (Germany), developing Digital Therapeutics (DTx), by translating cognitive behavioural therapy into a digital product experience.
+Isometric (United Kingdom), issuing scientifically rigorous, high-quality carbon credits and improving transparency and increasing the speed of carbon crediting.
+Made of Air (Germany), functionalizes biochar to fill materials – transforming its carbon removal promise into usable, high volume, carbon-negative materials.
+Marvel Fusion (Germany), utilizing high-intensity ultra-short lasers and nanostructured fuel targets to commercialize fusion energy.
+NatureMetrics (United Kingdom), turning the complexities of nature into simple biodiversity insights and metrics to support nature impact reporting.
+PlanQC (Germany), building quantum computers that store information in single atoms.
+Pledge (United Kingdom), decarbonization for logistics supply chains helping businesses understand, report and reduce their emissions.
+Proxima Fusion (Germany), developing fusion power plants based on QI stellarator technology.
+Qubit Pharmaceuticals (France), quantum-aided drug discovery.
+Space Forge (United Kingdom), advanced materials and in-space manufacturing company using extreme temperature, microgravity and ultra-high vacuum conditions available in low earth orbit to manufacture materials that cannot readily be grown terrestrially.
+Supercritical (United Kingdom), helping businesses get to net zero by measuring their carbon footprint and selling them carbon removal offsets.
+SWISSto12 (Switzerland), 3D printing technologies for high-performance radio frequency (RF) products and applications and the manufacturing of entire geostationary telecom satellites.
+UNIO Enterprise (Germany), delivering internet connectivity to mobile users through a satellite constellation.
+
+
+China
+
+Botree Recycling (People’s Republic of China), providing a full solution for the recycling of critical battery materials.
+Deeplang AI (People’s Republic of China), reshaping knowledge-workers’ information processing workflow empowered by large language model technology.
+Dongsheng AI (People’s Republic of China), building industrial vision and AI algorithms for use within the industrial automation sector.
+HiDream.ai (People’s Republic of China), building generative-AI powered visual multimodality foundation models and applications.
+SenseDeal (People’s Republic of China), developing enterprise-level large model applications and unstructured data intelligent processing engines.
+TerraQuanta (People’s Republic of China), large AI weather model for renewable energy and electricity trading.
+Triastek (People’s Republic of China), pioneering a 3D printing pharmaceutical process to transform the delivery, development and production of medication.
+Viture (People’s Republic of China), XR glasses with near-universal device compatibility.
+Weiyun AI & Robotics Group (People’s Republic of China), combining medical health and AI to manufacture clinical dental products through custom robots and smart factories.
+Westlake Omics (People’s Republic of China), leveraging AI-empowered proteomics technology to provide protein measurement services and clinical tests for disease diagnosis and prognosis.
+Yrobot (People’s Republic of China), building soft and lightweight wearable robots that can effectively assist patients with neuromuscular impairments both in hospital and at home.
+
+
+
+
+
+Latin America
+
+Bright Cities (Brazil), generating diagnostics and roadmaps for cities and the public sector.
+Nagro (Brazil), lending and financial technology for agribusiness.
+PhageLab (Chile), creating the fastest diagnosis AI-powered platform to fully characterize pathogenic bacteria and to pair them with the right bacteriophages for effective elimination.
+Vammo (Brazil), building IoT-enhanced electric motorcycles, supported by a network of battery swapping stations.
+
+Middle East and North Africa
+
+Aim Security (Israel), providing guardrails for secure and safe use of large language models (LLMs).
+BrainQ (Israel), developing precision neurology therapies using brain-computer interface technology, designed to target damaged neuronal networks and facilitate neuro-recovery.
+Enzymit (Israel), leveraging advanced AI to engineer novel enzymes creating a cell-free platform that facilitates the sustainable and efficient production of valuable chemicals.
+Imagindairy (Israel), using proprietary AI models and precision fermentation to efficiently produce sustainable and affordable animal-free dairy proteins.
+Khazna (Egypt), building the Workforce Bank for the underserved across the Middle East, starting with Egypt and Saudi Arabia.
+Wanda Fish (Israel), producing fish fillets by isolating fish cells and growing them in a controlled environment.
+
+North America
+
+2045 Studio (USA), creating a pathway for companies to build cultures rooted in belonging, retention and promotion.
+Amini (USA), solving Africa’s environmental data scarcity by leveraging emerging AI tools and space technologies to support sustainability and climate initiatives for the continent.
+Artyc (USA), democratizing cold chain access by creating high-quality, accessible and sustainable solutions for all.
+Automotus (USA), helping cities reduce emissions, safety hazards and congestion by automating payment and enforcement at the kerb with computer vision.
+Brimstone Energy (USA), building a technology to do lower-cost production of carbon-negative ordinary portland cement.
+Camus Energy (USA), enabling utilities to harness local energy resources for active management of network capacity and reliable operations for a fully electrified, zero-carbon grid.
+Captura (USA), leveraging the natural carbon removal powers of the ocean to remove CO2 from the atmosphere at scale.
+Carbon Upcycling Technologies (Canada), capturing CO2 in industrial byproducts to create material to both sequester and avoid cement emissions.
+CATALOG Technologies (USA), a DNA-based platform for digital data storage and computing.
+Censia (USA), delivering bias-free AI and predictive analytics to empower large enterprises globally to make data-driven people decisions.
+Cybera (USA), automating global criminal complaint filing in line with INTERPOL recommendations to alert banks, crypto exchanges and law enforcement globally.
+Dazz (USA), solving vulnerabilities and preventing risks in cloud development environments.
+ELSA (USA), leveraging machine learning, generative AI and advanced speech recognition technology to improve users' English-speaking communication.
+Evrnu (USA), converting textile waste into a new high-performance fibre that is recyclable, biodegradable and compostable.
+Fero Labs (USA), AI-driven platform providing predictions backed by confidence bands, full transparency and explainability so factories make efficient production changes.
+Fourth Power (USA), scalable thermal battery technology storing excess renewable energy as heat and releasing it as electricity on demand to the grid for both long and short durations.
+Heirloom Carbon (USA), accelerating the carbon mineralization process to rapidly and permanently remove CO2 from the atmosphere and then store it safely.
+Inclusively (USA), aiding individuals with disabilities in identifying workplace accommodations and enhancing productivity, retention and access to diverse talent pools.
+Juvena Therapeutics (USA), developing disease-modifying biologics to treat chronic muscle and metabolic diseases by unlocking the therapeutic potential of stem-cell secreted proteins.
+Kintsugi (USA), voice biomarker software harnessing the power of AI and free-form speech to detect signs and severity of mental health conditions.
+Moonhub (USA), providing a recruiter-on-demand platform powered by AI.
+Neurable (USA), scaling neuroimaging into everyday products.
+NextSense (USA), building a brain-responsive earbud for real-time sleep enhancement.
+Nth Cycle (USA), transforming the outputs of metal scrap, electronics recycling, untapped mining resources and waste from existing mines into high-purity critical minerals ready to be used in new production.
+Oleria (USA), securely managing access to decentralized SaaS apps and sensitive data.
+OpenBCI (USA), building hardware and software for interfacing the human body, brain and mind.
+Pictory (USA), using AI to automate the conversion of long-form content into engaging, concise videos.
+Populus (USA), providing cities with a software platform to manage connected fleet vehicles to deliver safer and more sustainable streets.
+Rabbit (USA), developing a personalized operating system, Rabbit OS, capable of understanding complex user intentions, operating user interfaces and performing actions on behalf of the user through natural language.
+Re-Nuble (USA), converting unrecoverable food waste into a suite of biological fertilizers and crop residue into peat-free horticultural substrates.
+Robigo (USA), leveraging cutting edge biotechnology tools like CRISPR and RNAi to empower microbes to protect crops from disease and improve crop yields.
+Robust.AI (USA), an industrial-grade cognitive engine leveraging robotics and AI technology for warehouse logistics and manufacturing.
+Skygrid (USA), building high-assurance, third-party services to enable the safe operations and airspace integration of autonomous aircraft.
+Thea Energy (USA), reinventing the stellarator using computer-controlled arrays of planar coils and replacing the intricate, complex modular magnets required in all other proposed stellarator architectures.
+Valora (USA), enabling global peer-to-peer payments and access to decentralized financial tools.
+Vibrant Planet (USA), a scenario planning, monitoring and reporting system helping natural resource managers and community protectors prioritize the deployment of resources to build wildfire and climate resilience.
+You.com (USA), operating a private search engine to summarize the web for users.
+
+South Asia
+
+Amperehour Solar (India), creating dispatchable renewable energy generating plants.
+Cropin (India), developing a farm monitoring and management solution to help farmers geo-tag their farms, digitize farm records, monitor crop productivity and improve farm activity.
+Entri (India), giving access to learning and upskilling programmes in Indian local languages.
+HealthPlix (India), developing AI-powered electronic medical records software for the healthcare sector.
+International Battery Company (India), manufacturing large-sized rechargeable prismatic li-ion nickel manganese cobalt batteries.
+Niramai (India), developing a novel AI-based test for detecting early-stage breast cancer, which is affordable, portable and non-invasive.
+NxtWave (India), providing AI-driven, vernacular-based coding courses, enabling thousands of previously unemployed students to secure jobs.
+Pixxel (India), developing hyperspectral satellite imagery to capture geospatial data.
+Sarvam AI (India), building foundation AI models and platforms for their use with a focus on Indian languages and use cases.
+String Bio (India), producing next-generation ingredients for agriculture, animal feed and human nutrition from GHG gases.
+
 
 
 ## Another Simulations:
